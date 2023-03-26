@@ -1,10 +1,7 @@
 
-<h1 align="center"> Conversor Alura </h1>
 ##Índice
 
 *[Título e imagen de portada](#Conversor Alura)
-
-*[Insignias](#insignias)
 
 *[Índice](#índice)
 
@@ -18,9 +15,7 @@
 
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 
-*[Personas Contribuyentes](#personas-contribuyentes)
-
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+*[Personas-Desarrolladores del Proyecto](#jesussilva95)
 
 * [Licencia](#licencia)
 
