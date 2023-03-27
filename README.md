@@ -5,7 +5,7 @@
 
 *[Índice](#índice)
 
-*[Descripción del proyecto](#descripción-del-proyecto)
+*[Descripción del proyecto](#vienvenido a mi primer proyecto JAVA, el cual se utilizo para realizar el convertidor de comedas y temperatura de de Alura)
 
 *[Estado del proyecto](#En desarrollo)
 
